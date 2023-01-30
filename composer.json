@@ -1,0 +1,17 @@
+{
+    "name": "hisoka/composer",
+    "autoload": {
+        "psr-4": {
+            "Hisoka\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexis90210",
+            "email": "alexisng90210@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
